@@ -24,13 +24,13 @@ const result = {
     "logout": "Çıkış Yap",
     "navigation": {
       "applog": "Applog",
-      "assemblies": "Assemblies",
+      "assemblies": "Çevirmeler",
       "changelog": "Güncelleme Kaydı",
       "news": "Haberler",
       "profiles": "Profiller",
       "settings": "Ayarlar"
     },
-    "welcome_back": "Tekrar Hoşgeldiniz, {username}!"
+    "welcome_back": "Tekrar Hoş Geldiniz, {username}!"
   },
   "profiles": {
     "set": {
